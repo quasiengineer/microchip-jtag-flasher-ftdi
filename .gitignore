@@ -1,0 +1,8 @@
+# intellisense headers
+vendor
+
+# IDE
+.idea
+
+# build files
+build
